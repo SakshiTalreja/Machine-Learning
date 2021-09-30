@@ -7,6 +7,7 @@ pre-processing is done in the beginning and data visualization
 using different graphs. Here I also proved that increasing the 
 size of data does not always increase the accuracy of the model, 
 it sometimes decreases.
+Here you can try any dataset(examples are uploaded) but it should be based on regression.
 ## Features
 
 - ML Algorithms
